@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<head>
+	<link rel="stylesheet" type="text/css" href="css/bootstrap.css">
+	<title>Some Site</title>
+</head>
+<body class="no-m-p"
+
+<div class="container-fluid">
+	<div class="col">
+		<div class="row">
+			<H2> HaHa Funny Memes! </h2>
+		</div>
+	
